@@ -1,12 +1,12 @@
 # Alfred Cheatsheet
-
+## File opening
 * `st` - open with Sublime Text
-
-* `dash javascript:string` - look up JavaScript string methods
-
 * `fi` - Finder to iTerm
 * `if` - iTerm to Finder
 
-* `st ` - search StackOverflow
-
+## App opening
 * `ios` - launch iOS Simulator
+
+## Search
+* `dash javascript:string` - look up JavaScript string methods
+* `st ` - search StackOverflow
