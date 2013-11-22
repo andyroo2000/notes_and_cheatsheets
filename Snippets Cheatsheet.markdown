@@ -1,5 +1,13 @@
 # Snippets Cheatsheet
 
+## Meteor
+
+* `tp` = `<template name="arg"> ... </template>`
+* `ea` = `{{#each arg}} ... {{/each}}`
+* `if` = `{{#if argIs 'arg2'}} ... {{/if}}`
+* `Meteor.render` = `Meteor.render(function () { ... });`
+* `Meteor.publish` = `Meteor.publish('name', function () { ... });`
+
 ## JavaScript
 
 * `cl` = `console.log();`

@@ -1,5 +1,9 @@
 # SublimeText Cheatsheet
 
+## File Management
+
+* `⌥⌘N` - Advanced New File
+
 ## Buffer Management
 
 * `Ctrl-1` = select the 1st window
