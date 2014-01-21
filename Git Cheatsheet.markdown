@@ -8,3 +8,6 @@
 
 * `git branch -a` - shows remote and local branches
 * `git fetch origin` - fetches remote branches so that you can check them out locally
+
+* `git checkout -b nameOfBranch` - checkout and switch to new branch
+

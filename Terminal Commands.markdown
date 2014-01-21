@@ -60,3 +60,8 @@
 
 * `cat > file.txt` = sends typed text into the file until you cancel
 
+`Ctrl-R` - search through previous terminal commands
+
+
+
+`-d` flag = post

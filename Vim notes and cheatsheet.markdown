@@ -96,3 +96,6 @@
 ## Pasting
 * `F2` - toggle indentation to make pasting work normally
 
+## Recording
+* `q` `letter` - begin recording
+* `q` - end recording
