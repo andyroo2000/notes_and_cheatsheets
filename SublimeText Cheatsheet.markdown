@@ -14,6 +14,7 @@
 
 ## Formatting
 `Ctrl-alt-F` = automatically format JavaScript code
+`Ctrl-Shift-T` = remove whitespace from current file
 
 ## Selection
 * `Ctrl-Shift-M` = expand selection to brackets
