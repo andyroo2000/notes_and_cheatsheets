@@ -181,3 +181,7 @@ If you want to switch branches, you have to commit an changes on your current fi
 If you're using Sublime Text as your text editor, there is an excellent plugin called [SublimeGit](https://sublimegit.net), which makes many tasks in Git much quicker and simpler. This is a tremendous time-saver if you interact with Git a lot and I use it constantly.
 
 There are also various GUIs for Git, but I'm not too crazy about any of them. For me, the hardest part about git isn't learning (or Googling) the relevant commands, but understanding how Git works... And with a GUI, you end up having to learn Git, while also learning how to use the GUI... Also, most of the help online via [Stack Overflow](http://stackoverflow.com/questions/tagged/git) is geared toward the command-line interface and it can be tricky to translate command-line advice to whatever GUI application you may be using. 
+
+## Andrew's edits
+
+Here are some edits made my Andrew
